@@ -183,7 +183,7 @@ function Header({ theme, toggleTheme, writingPage = false }) {
           <button onClick={() => go('work')}>Work</button>
           <button onClick={() => go('patents')}>Patents</button>
           <button onClick={() => go('speaking')}>Speaking</button>
-          <a href="/writing.html" onClick={() => setOpen(false)}>Writing & Media</a>
+          <a href="/writing/" onClick={() => setOpen(false)}>Writing & Media</a>
           <button onClick={() => go('contact')}>Contact</button>
         </nav>
         <div className="header-actions">
@@ -269,7 +269,7 @@ function SelectedWork({ data }) {
           <div><div className="eyebrow">Selected work</div><h2>Recent highlights</h2><p>A snapshot of my writing, interviews, speaking, patents and media coverage.</p></div>
           <div className="filter-row compact">
             {FILTERS.map(([name]) => <button key={name} className={active === name ? 'active' : ''} onClick={() => setActive(name)}>{name}</button>)}
-            <a href="/writing.html" className="view-all">View all <ArrowRight size={17} /></a>
+            <a href="/writing/" className="view-all">View all <ArrowRight size={17} /></a>
           </div>
         </div>
         <div className="work-grid">{items.map(item => <WorkCard key={`${item.url}-${item.title}`} item={item} />)}</div>
@@ -335,7 +335,7 @@ function Contact({ site }) {
         <div><div className="eyebrow">Contact</div><h2>Connect with me.</h2><p>For conversations around AI security, enterprise AI, applied research and speaking.</p></div>
         <div className="contact-actions">
           <a className="button primary" href={site.links?.find(l => /linkedin/i.test(l.label))?.url || '#'} target="_blank" rel="noreferrer"><Linkedin size={18} /> LinkedIn</a>
-          <a className="button ghost" href="/writing.html">Writing & media <ArrowRight size={18} /></a>
+          <a className="button ghost" href="/writing/">Writing & media <ArrowRight size={18} /></a>
         </div>
       </div>
     </section>
@@ -383,7 +383,7 @@ function Footer() {
 function AppBody() {
   const { data, error } = usePortfolio()
   const [theme, toggleTheme] = useTheme()
-  const writingPage = window.location.pathname.endsWith('/writing.html')
+  const writingPage = window.location.pathname === '/writing' || window.location.pathname.startsWith('/writing/')
 
   useEffect(() => {
     window.scrollTo({ top: 0, left: 0, behavior: 'auto' })

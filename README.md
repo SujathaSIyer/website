@@ -11,7 +11,7 @@ React + Vite portfolio, designed for GitHub and Cloudflare Pages. All portfolio 
 - Lato typography with a custom SSI script wordmark
 - Live YouTube thumbnails and website previews for writing/media cards
 - Light and dark theme with persisted preference
-- Multi-page static output: `index.html` and `writing.html`
+- Multi-page static output: `index.html` and `writing/index.html`
 
 ## Content
 
@@ -20,7 +20,7 @@ React + Vite portfolio, designed for GitHub and Cloudflare Pages. All portfolio 
 - `public/favicon.png` — SSI script favicon
 - `src/App.jsx` — components and page structure
 - `src/styles.css` — visual system and themes
-- `writing.html` — standalone Writing & Media entry page
+- `writing/index.html` — standalone Writing & Media entry page
 
 Patent entries link to their public patent pages. No patent PDFs are bundled.
 
@@ -32,7 +32,7 @@ npm run dev
 ```
 
 Homepage: `http://localhost:5173/`
-Writing & Media: `http://localhost:5173/writing.html`
+Writing & Media: `http://localhost:5173/writing/`
 
 ## Production build
 
@@ -43,7 +43,7 @@ npm run build
 
 Build output: `dist/`
 
-The build contains both `dist/index.html` and `dist/writing.html`, so reloading the Writing & Media page works without SPA routing rules.
+The build contains both `dist/index.html` and `dist/writing/index.html`, so reloading the Writing & Media page works without SPA routing rules.
 
 ## Deploy to Cloudflare Pages with Wrangler
 
@@ -75,4 +75,3 @@ npm run deploy
 - Root directory: `/`
 - Node version: `22`
 
-`/writing` redirects permanently to `/writing.html` for backwards compatibility.
