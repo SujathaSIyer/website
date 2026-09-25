@@ -1,8 +1,8 @@
 {
-  "last_reviewed": "2026-09-09",
+  "last_reviewed": "2026-09-25",
   "subject": "Sujatha S Iyer",
   "identity_matching_rule": "Include Sujatha S Iyer, Sujatha Iyer, Sujatha S, Sujatha, and obvious spelling/transcription variants only when ManageEngine, Zoho, Zoho Corporation, the AI-security role, or inventor/assignee context makes the identity unambiguous. Patent searches include Indian Patent Office/InPASS and US/international patent sources.",
-  "record_count": 75,
+  "record_count": 82,
   "records": [
     {
       "date": "2025-09-21",
@@ -72,6 +72,32 @@
       "archive_change": "added_2026-09-09"
     },
     {
+      "date": "2026-08-31",
+      "title": "International Women in Cyber Day 2026 – industry perspectives",
+      "outlet": "Cyber Daily",
+      "type": "Quoted / Roundup",
+      "format": "Article · quote",
+      "url": "https://www.cyberdaily.au/culture/14121-the-industry-speaks-international-women-in-cyber-day-2026",
+      "summary": "Sujatha discusses the historical gender gap in cybersecurity, the value of mentorship and visible role models, and opportunities for women entering the field.",
+      "topics": [
+        "women in cybersecurity",
+        "mentorship",
+        "leadership"
+      ],
+      "status": "verified",
+      "syndications": [
+        {
+          "label": "iTWire coverage",
+          "url": "https://itwire.com/it-people-news/enterprise-staff/international-women-in-cyber-day"
+        },
+        {
+          "label": "SecurityBrief coverage",
+          "url": "https://securitybrief.in/story/women-in-cyber-security-gap-prompts-diversity-push"
+        }
+      ],
+      "archive_change": "added_2026-09-25"
+    },
+    {
       "date": "2026-08-18",
       "title": "Quantum readiness starts before Q-Day — An Asia Pacific perspective",
       "outlet": "Quantum Spectator",
@@ -94,8 +120,8 @@
       "outlet": "The Patent Office, Government of India",
       "type": "Patent / IP",
       "format": "India patent grant",
-      "url": "#",
-      "summary": "Indian Patent No. 599347 was granted to Zoho Corporation Private Limited for the invention “Neural Style Transfer Based Slider Puzzle CAPTCHA.” The certificate records Indian application 202141026109, filed 11 June 2021, with a grant date of 14 August 2026 and a 20-year patent term measured from the filing date. The corresponding patent family names Sujatha S Iyer among the inventors.",
+      "url": "https://iprsearch.ipindia.gov.in/PublicSearch/",
+      "summary": "Indian Patent No. 599347 was granted to Zoho Corporation Private Limited for the invention “Neural Style Transfer Based Slider Puzzle CAPTCHA.” The certificate records Indian application 202141026109, filed 11 June 2021, with a grant date of 14 August 2026 and a 20-year patent term measured from the filing date. The corresponding patent family names Sujatha S Iyer among the inventors. The linked official public-search portal can be searched using application 202141026109 or patent 599347.",
       "topics": [
         "patent",
         "India",
@@ -118,7 +144,7 @@
           "url": "https://patents.google.com/patent/US20230018995A1/en"
         }
       ],
-      "archive_change": "added_2026-08-31"
+      "archive_change": "updated_2026-09-25"
     },
     {
       "date": "2026-08-12",
@@ -228,6 +254,22 @@
         }
       ],
       "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "AI Appreciation Day 2026 – building trustworthy enterprise AI",
+      "outlet": "Cyber Daily",
+      "type": "Quoted / Roundup",
+      "format": "Article · quote",
+      "url": "https://www.cyberdaily.au/digital-transformation/13902-the-industry-speaks-part-2-ai-appreciation-day-2026",
+      "summary": "An industry roundup quoting Sujatha on visibility into data, security controls, accountable governance and human oversight as the foundations of trustworthy AI deployment.",
+      "topics": [
+        "AI governance",
+        "AI security",
+        "trust"
+      ],
+      "status": "verified",
+      "archive_change": "added_2026-09-25"
     },
     {
       "date": "2026-07-14",
@@ -467,6 +509,39 @@
       "archive_change": "previously_catalogued"
     },
     {
+      "date": "2026-03-08",
+      "title": "Why do so few women reach India’s boardrooms, leave alone the top?",
+      "outlet": "The Federal",
+      "type": "Interview / Quote",
+      "format": "Article · interview excerpts",
+      "url": "https://thefederal.com/category/womens-march/why-do-so-few-women-reach-indias-boardrooms-leave-alone-the-top-233339",
+      "summary": "A Women’s Day report quoting Sujatha on self-doubt, family responsibilities and the timing of career advancement for women aspiring to leadership roles.",
+      "topics": [
+        "women in tech",
+        "leadership",
+        "career"
+      ],
+      "status": "verified from indexed publisher article",
+      "archive_change": "added_2026-09-25"
+    },
+    {
+      "date": "2026-03-08",
+      "title": "IWD 2026 Leadership Series: Sujatha S Iyer | Zoho Corporation",
+      "outlet": "Techitup Middle East",
+      "type": "Interview / Profile",
+      "format": "Q&A interview",
+      "url": "https://techitupme.com/iwd-2026-leadership-series-sujatha-s-iyer-zoho-corporation/",
+      "summary": "An International Women's Day interview on technical depth, leadership responsibility, the move into security, decision-making exposure and advice for women entering AI and technology.",
+      "topics": [
+        "women in tech",
+        "leadership",
+        "AI security",
+        "career"
+      ],
+      "status": "verified",
+      "archive_change": "added_2026-09-25"
+    },
+    {
       "date": "2026-03-06",
       "title": "Give To Gain: Why Visibility Is A Strategic Priority For Women In Tech",
       "outlet": "BusinessToday Malaysia",
@@ -593,7 +668,13 @@
         "career"
       ],
       "status": "verified",
-      "archive_change": "previously_catalogued"
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "Alternate BIT upload",
+          "url": "https://www.youtube.com/watch?v=ZkqCgo0wSxI"
+        }
+      ]
     },
     {
       "date": "2026",
@@ -617,8 +698,8 @@
       "title": "Zoho’s approach to AI: responsibility, privacy and security",
       "outlet": "Zoho Middle East & North Africa",
       "type": "Official / Video",
-      "format": "LinkedIn video",
-      "url": "https://www.linkedin.com/posts/zoho-mena_ai-is-everywhere-right-now-and-questions-activity-7435292661974204416-ie2O",
+      "format": "YouTube video · also on LinkedIn",
+      "url": "https://www.youtube.com/watch?v=akk0L45JnWA",
       "summary": "A short official Zoho video in which Sujatha discusses AI responsibility, privacy and security, including the need to strengthen the human layer and Zoho’s policy of not using customer data for model training.",
       "topics": [
         "responsible AI",
@@ -627,7 +708,13 @@
         "Zoho"
       ],
       "status": "verified",
-      "archive_change": "previously_catalogued"
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "Zoho MENA LinkedIn video",
+          "url": "https://www.linkedin.com/posts/zoho-mena_ai-is-everywhere-right-now-and-questions-activity-7435292661974204416-ie2O"
+        }
+      ]
     },
     {
       "date": "2026",
@@ -636,13 +723,23 @@
       "type": "Event / Speaker",
       "format": "Speaker profile",
       "url": "https://etnowgbs.com/speaker/sujatha-iyer/",
-      "summary": "Official conference speaker profile for Sujatha Iyer. The indexed page establishes her participation but exposes limited session detail, so it is listed as a speaker credential rather than summarized as editorial content.",
+      "summary": "The official agenda lists Sujatha Iyer, Head of AI Security at Zoho, on the panel ‘India’s moment in the global AI economy: Leadership, Scale, and Strategic Advantage.’ The organizer also includes her in the event photo gallery.",
       "topics": [
         "speaker",
         "business summit"
       ],
       "status": "verified",
-      "archive_change": "previously_catalogued"
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "Official panel agenda",
+          "url": "https://etnowgbs.com/agenda/"
+        },
+        {
+          "label": "Official event gallery",
+          "url": "https://etnowgbs.com/glimpses/"
+        }
+      ]
     },
     {
       "date": "2025-12-01",
@@ -677,20 +774,46 @@
       "archive_change": "previously_catalogued"
     },
     {
+      "date": "2025-12",
+      "title": "Women in technology – career and security perspective",
+      "outlet": "VARINDIA",
+      "type": "Print / Quote",
+      "format": "December 2025 magazine · page 28",
+      "url": "https://varindia.com/pdfs/Dec%20-Low%20%281%29.pdf",
+      "summary": "VARINDIA's December issue quotes Sujatha on moving from product development into AI security and on building reliable, resilient and trustworthy systems.",
+      "topics": [
+        "women in tech",
+        "career",
+        "AI security"
+      ],
+      "status": "verified",
+      "archive_change": "added_2026-09-25"
+    },
+    {
       "date": "2025-11-18",
-      "title": "AICTE AI Summit 2025 – ‘AI in India: Opportunities and Challenges’",
+      "title": "AICTE AI Summit 2025 – chief guest address and full recording",
       "outlet": "Bannari Amman Institute of Technology",
-      "type": "Event / Speaker",
-      "format": "Event program PDF",
-      "url": "https://www.bitsathy.ac.in/wp-content/uploads/AICTE-AI-Sumit-Invitation-2025.pdf",
-      "summary": "The official summit invitation lists Sujatha as a chief guest / panel participant for a session on AI opportunities and challenges in India.",
+      "type": "Video / Event",
+      "format": "YouTube event recording",
+      "url": "https://www.youtube.com/watch?v=-hd6hJM05uQ",
+      "summary": "Bannari Amman Institute of Technology's full AICTE AI Summit 2025 recording includes Sujatha's chief guest address on AI in India. The institute's invitation and event post identify her as the chief guest for the 18 November programme.",
       "topics": [
         "AI in India",
         "education",
         "speaker"
       ],
       "status": "verified",
-      "archive_change": "previously_catalogued"
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "Official event invitation",
+          "url": "https://www.bitsathy.ac.in/wp-content/uploads/AICTE-AI-Sumit-Invitation-2025.pdf"
+        },
+        {
+          "label": "BIT event post",
+          "url": "https://www.linkedin.com/posts/bitsathyindia_aicteaisummit2025-artificialintelligence-activity-7396488528915910656-2YkF"
+        }
+      ]
     },
     {
       "date": "2025-11-15",
@@ -1007,7 +1130,13 @@
         "inclusion"
       ],
       "status": "verified",
-      "archive_change": "previously_catalogued"
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "VnEconomy Vietnamese coverage",
+          "url": "https://vneconomy.vn/phu-nu-dang-dan-thay-doi-cuoc-choi-trong-nganh-cong-nghe.htm"
+        }
+      ]
     },
     {
       "date": "2025-03-05",
@@ -1082,9 +1211,9 @@
       "date": "2025-02-27",
       "title": "Decoding AI security for enterprises with ManageEngine’s head of AI security",
       "outlet": "The UpstreamLife",
-      "type": "Podcast",
-      "format": "Podcast · 46 min",
-      "url": "https://music.amazon.in/podcasts/b5a8cb92-ae0c-4d4d-92bb-a60a9965b4f6/episodes/f757c73a-6f9d-4484-ae80-77e2835d62aa/the-upstreamlife-decoding-ai-security-for-enterprises-with-manageengine%27s-head-of-ai-security",
+      "type": "Video / Podcast",
+      "format": "YouTube video podcast · 46 min",
+      "url": "https://www.youtube.com/watch?v=hfZbxD0UiSw",
       "summary": "A 46-minute conversation spanning the evolution from rule-based security to proactive AI defense, enterprise digital maturity, AI-versus-AI security, LLMs and agents, compliance, developer productivity and the importance of mathematics.",
       "topics": [
         "enterprise security",
@@ -1095,11 +1224,15 @@
       "status": "verified",
       "syndications": [
         {
-          "label": "YouTube video",
-          "url": "https://www.youtube.com/watch?v=hfZbxD0UiSw"
+          "label": "Amazon Music audio episode",
+          "url": "https://music.amazon.in/podcasts/b5a8cb92-ae0c-4d4d-92bb-a60a9965b4f6/episodes/f757c73a-6f9d-4484-ae80-77e2835d62aa/the-upstreamlife-decoding-ai-security-for-enterprises-with-manageengine%27s-head-of-ai-security"
+        },
+        {
+          "label": "Publisher's episode guide and transcript",
+          "url": "https://upstreamvoice.com/podcasts/145.html"
         }
       ],
-      "archive_change": "previously_catalogued"
+      "archive_change": "updated_2026-09-25"
     },
     {
       "date": "2025-02-22",
@@ -1203,12 +1336,12 @@
       "archive_change": "previously_catalogued"
     },
     {
-      "date": "2025",
+      "date": "2025-05-11",
       "title": "National Technology Day: Celebrating India’s Innovation Journey",
-      "outlet": "Tata Elxsi",
+      "outlet": "CXOtoday",
       "type": "Quoted / Roundup",
       "format": "Article",
-      "url": "https://www.tataelxsi.com/news-and-events/news/national-technology-day-celebrating-indias-innovation-journey",
+      "url": "https://cxotoday.com/corner-office/national-technology-day-celebrating-indias-innovation-journey/",
       "summary": "A National Technology Day leadership roundup carrying Sujatha’s perspective on AI-driven cyber defense, predictive resilience, emerging GenAI threats, sovereign AI and the need for transparent, auditable and resilient systems.",
       "topics": [
         "India",
@@ -1217,7 +1350,17 @@
         "cyber resilience"
       ],
       "status": "verified",
-      "archive_change": "previously_catalogued"
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "Tata Elxsi republication",
+          "url": "https://www.tataelxsi.com/news-and-events/news/national-technology-day-celebrating-indias-innovation-journey"
+        },
+        {
+          "label": "VARINDIA roundup",
+          "url": "https://www.varindia.com/public/index.php/news/11th-May-%3A-Honouring-India%E2%80%99s-Tech-Triumphs-and-Future-Innovation"
+        }
+      ]
     },
     {
       "date": "2025",
@@ -1392,6 +1535,22 @@
           "grant_date": "2026-08-14"
         }
       ]
+    },
+    {
+      "date": "2019-01-13",
+      "title": "Drawing parallels between Neural Networks and life",
+      "outlet": "Medium",
+      "type": "Authored",
+      "format": "Personal essay",
+      "url": "https://medium.com/@sujathasiyer/drawing-parallels-between-neural-networks-and-life-ffc263ccadb2",
+      "summary": "An early article explaining neural-network basics through analogies with life and learning, published under Sujatha's own Medium account with a Zoho affiliation.",
+      "topics": [
+        "neural networks",
+        "AI education",
+        "writing"
+      ],
+      "status": "verified from author profile",
+      "archive_change": "added_2026-09-25"
     }
   ],
   "site_generated": "2026-09-25",
@@ -1414,10 +1573,6 @@
       {
         "label": "LinkedIn",
         "url": "https://in.linkedin.com/in/sujathasiyer"
-      },
-      {
-        "label": "ManageEngine",
-        "url": "https://www.manageengine.com/responsible-ai.html"
       }
     ],
     "focus": [
@@ -1450,7 +1605,7 @@
       "Entrepreneur 2026 – speaker listing",
       "What it takes to run AI in the real world: Lessons from Akamai Digital Leadership Summit",
       "ET NOW Global Business Summit 2026 – speaker profile",
-      "AICTE AI Summit 2025 – ‘AI in India: Opportunities and Challenges’",
+      "AICTE AI Summit 2025 – chief guest address and full recording",
       "Speaker Spotlight – TNGSS 2025: From TN to Global",
       "Beyond Talk, Into Action: Mumbai’s World AI Show Drives Real AI Change"
     ],
