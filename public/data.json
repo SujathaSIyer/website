@@ -2,7 +2,7 @@
   "last_reviewed": "2026-09-25",
   "subject": "Sujatha S Iyer",
   "identity_matching_rule": "Include Sujatha S Iyer, Sujatha Iyer, Sujatha S, Sujatha, and obvious spelling/transcription variants only when ManageEngine, Zoho, Zoho Corporation, the AI-security role, or inventor/assignee context makes the identity unambiguous. Patent searches include Indian Patent Office/InPASS and US/international patent sources.",
-  "record_count": 82,
+  "record_count": 87,
   "records": [
     {
       "date": "2025-09-21",
@@ -20,6 +20,22 @@
       ],
       "status": "verified",
       "archive_change": "added_2026-08-24"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Entrepreneur 2026 – speaker listing",
+      "outlet": "Entrepreneur India",
+      "type": "Event / Speaker",
+      "format": "Forthcoming conference · official speaker listing",
+      "url": "https://www.entrepreneurindia.com/speakers.php",
+      "summary": "Listed by the organizer as a speaker for Entrepreneur 2026, scheduled for 5 October at Bharat Mandapam in New Delhi. This listing precedes the event and does not confirm a completed talk.",
+      "topics": [
+        "AI",
+        "entrepreneurship",
+        "speaking"
+      ],
+      "status": "verified – upcoming",
+      "archive_change": "added_2026-09-25"
     },
     {
       "date": "2026-09-08",
@@ -269,7 +285,17 @@
         "trust"
       ],
       "status": "verified",
-      "archive_change": "added_2026-09-25"
+      "archive_change": "added_2026-09-25",
+      "syndications": [
+        {
+          "label": "Modern Marketing feature",
+          "url": "https://modernmarketing.co.za/the-success-of-ai-will-ultimately-be-determined-by-trust/"
+        },
+        {
+          "label": "SME Tech Guru feature",
+          "url": "https://www.smetechguru.co.za/ai-appreciation-day-why-trust-not-automation-will-determine-ais-success/"
+        }
+      ]
     },
     {
       "date": "2026-07-14",
@@ -655,7 +681,7 @@
       "archive_change": "previously_catalogued"
     },
     {
-      "date": "2026",
+      "date": "2025-12-18",
       "title": "Zoho’s Head of AI Security about BIT Sathyamangalam | Smt. Sujatha S Iyer",
       "outlet": "Bannari Amman Institute of Technology",
       "type": "Video",
@@ -677,7 +703,23 @@
       ]
     },
     {
-      "date": "2026",
+      "date": "2025-07-16",
+      "title": "Voices of the Future: Celebrating AI Appreciation Day",
+      "outlet": "CXOtoday",
+      "type": "Quoted / Roundup",
+      "format": "Article · expert commentary",
+      "url": "https://cxotoday.com/corner-office/voices-of-the-future-celebrating-ai-appreciation-day7/",
+      "summary": "A separate AI Appreciation Day roundup quoting Sujatha on creative and critical-thinking skills, responsible AI, transparency and meaningful upskilling. Her contribution differs from the quote carried by CXO Digital Pulse on the same day.",
+      "topics": [
+        "AI adoption",
+        "future of work",
+        "responsible AI"
+      ],
+      "status": "verified",
+      "archive_change": "added_2026-09-25"
+    },
+    {
+      "date": "2025-07-01",
       "title": "TechLeader Voices – AI security, digital maturity and enterprise AI ROI",
       "outlet": "TechLeader",
       "type": "Video / Interview",
@@ -690,11 +732,11 @@
         "digital maturity",
         "ROI"
       ],
-      "status": "corroborated by publisher social post; YouTube metadata partially indexed",
-      "archive_change": "previously_catalogued"
+      "status": "verified from publisher's video description",
+      "archive_change": "updated_2026-09-25"
     },
     {
-      "date": "2026",
+      "date": "2026-03-05",
       "title": "Zoho’s approach to AI: responsibility, privacy and security",
       "outlet": "Zoho Middle East & North Africa",
       "type": "Official / Video",
@@ -881,7 +923,13 @@
         "malware"
       ],
       "status": "verified",
-      "archive_change": "previously_catalogued"
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "TechNadu short excerpt",
+          "url": "https://www.youtube.com/shorts/Wi3eBjPdPS8"
+        }
+      ]
     },
     {
       "date": "2025-10-27",
@@ -1304,7 +1352,7 @@
       "archive_change": "previously_catalogued"
     },
     {
-      "date": "2025",
+      "date": "2025-11-11",
       "title": "The AI cybersecurity mutation with Sujatha S Iyer and Ramanathan Kannabiran",
       "outlet": "ManageEngine",
       "type": "Video",
@@ -1318,7 +1366,7 @@
         "PAM"
       ],
       "status": "verified",
-      "archive_change": "previously_catalogued"
+      "archive_change": "updated_2026-09-25"
     },
     {
       "date": "2025",
@@ -1363,13 +1411,13 @@
       ]
     },
     {
-      "date": "2025",
+      "date": "2025-08-01",
       "title": "Knowledge Series Ep. 5 – AI for Startups with Sujatha",
       "outlet": "Zoho for Startups",
       "type": "Official / Video",
-      "format": "LinkedIn video",
-      "url": "https://www.linkedin.com/posts/zoho-for-startups_knowledge-series-episode-5-ai-for-startups-activity-7356982451539202049-RvZ5",
-      "summary": "A short practical video for founders on becoming AI-ready from day one. Sujatha emphasizes clean, well-structured data, avoiding silos, automating routine workflows and treating digital maturity as a prerequisite for AI maturity.",
+      "format": "YouTube video · Zoho for Startups Knowledge Series",
+      "url": "https://www.youtube.com/watch?v=K-vckGm6gGU",
+      "summary": "Zoho for Startups episode with Sujatha on building clean, structured data and digital maturity before introducing AI into a startup's workflows.",
       "topics": [
         "startups",
         "data architecture",
@@ -1377,7 +1425,13 @@
         "digital maturity"
       ],
       "status": "verified",
-      "archive_change": "previously_catalogued"
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "Zoho for Startups LinkedIn post",
+          "url": "https://www.linkedin.com/posts/zoho-for-startups_knowledge-series-episode-5-ai-for-startups-activity-7356982451539202049-RvZ5"
+        }
+      ]
     },
     {
       "date": "2025",
@@ -1397,6 +1451,40 @@
       "archive_change": "previously_catalogued"
     },
     {
+      "date": "2024-12-12",
+      "title": "The holiday playbook: Learn insider strategies from experts",
+      "outlet": "Zoho SalesIQ",
+      "type": "Video / Panel",
+      "format": "YouTube discussion",
+      "url": "https://www.youtube.com/watch?v=I5ajKax3ITc",
+      "summary": "Zoho SalesIQ discussion on preparing marketing, sales and support for the holiday rush, including AI to address business challenges. Sujatha Iyer is named among the participants as Zoho's then Manager, Machine Learning.",
+      "topics": [
+        "AI in business",
+        "customer experience",
+        "marketing",
+        "sales"
+      ],
+      "status": "verified from publisher's video description",
+      "archive_change": "added_2026-09-25"
+    },
+    {
+      "date": "2024-12-04",
+      "title": "Zoho's Manager – AI in Security Sujatha S. Iyer Gives Practical Insights",
+      "outlet": "Outgrow",
+      "type": "Video / Masterclass",
+      "format": "YouTube masterclass",
+      "url": "https://www.youtube.com/watch?v=BSmkKP1UAF0",
+      "summary": "Masterclass with Sujatha on adopting AI in small and medium-sized businesses, data foundations, responsible AI practices and ways to assess outcomes.",
+      "topics": [
+        "AI adoption",
+        "SMEs",
+        "AI strategy",
+        "responsible AI"
+      ],
+      "status": "verified from publisher's video description",
+      "archive_change": "added_2026-09-25"
+    },
+    {
       "date": "2024-12",
       "title": "Cyber Security & AI in Banking – magazine mention",
       "outlet": "Cyber National / UAE Banks Federation",
@@ -1411,6 +1499,28 @@
       ],
       "status": "verified – limited indexed preview",
       "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2024-11-21",
+      "title": "The Hindu AI Summit 2024 – AI in cybersecurity fireside chat",
+      "outlet": "The Hindu AI Summit",
+      "type": "Event / Speaker",
+      "format": "Fireside chat · event coverage",
+      "url": "https://www.linkedin.com/pulse/my-takeaways-from-hindus-ai-summit-2024-arun-kumar-dave-jhdzc",
+      "summary": "Fireside chat with The Hindu Group CTO Suresh Vijayaraghavan on defending against AI-enabled phishing and building next-generation security controls. A contemporaneous newspaper report identifies Sujatha and describes the session.",
+      "topics": [
+        "AI security",
+        "phishing",
+        "speaking"
+      ],
+      "status": "verified from contemporary event and newspaper coverage",
+      "syndications": [
+        {
+          "label": "The Hindu newspaper report (archived scan)",
+          "url": "https://appxcontent.kaxa.in/notes/2024-11-22-0.5107383647935946.pdf"
+        }
+      ],
+      "archive_change": "added_2026-09-25"
     },
     {
       "date": "2024-10-30",
@@ -1506,6 +1616,28 @@
       ],
       "status": "verified – clipping/indexed text",
       "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2023-05-13",
+      "title": "Google Cloud Community Day 2023 Chennai – speaker listing",
+      "outlet": "GDG Cloud Chennai",
+      "type": "Event / Speaker",
+      "format": "Official organizer event listing",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2023-chennai/",
+      "summary": "The official Google Developer Group event page lists Sujatha S Iyer of Zoho Corporation among the speakers. The programme includes a partner talk on applying AI to enterprise security; it does not explicitly assign that session to her.",
+      "topics": [
+        "AI security",
+        "Google Cloud",
+        "speaking"
+      ],
+      "status": "verified organizer speaker listing",
+      "syndications": [
+        {
+          "label": "Organizer's presentation archive",
+          "url": "https://github.com/GdgCloudChennai/presentation"
+        }
+      ],
+      "archive_change": "added_2026-09-25"
     },
     {
       "date": "2023-01-19",
