@@ -2,7 +2,7 @@
   "last_reviewed": "2026-09-25",
   "subject": "Sujatha S Iyer",
   "identity_matching_rule": "Include Sujatha S Iyer, Sujatha Iyer, Sujatha S, Sujatha, and obvious spelling/transcription variants only when ManageEngine, Zoho, Zoho Corporation, the AI-security role, or inventor/assignee context makes the identity unambiguous. Patent searches include Indian Patent Office/InPASS and US/international patent sources.",
-  "record_count": 87,
+  "record_count": 89,
   "records": [
     {
       "date": "2025-09-21",
@@ -662,6 +662,22 @@
       ],
       "status": "verified",
       "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "Zoho on CNBC-TV18 live at India AI Impact Summit 2026",
+      "outlet": "CNBC-TV18",
+      "type": "Video / Interview",
+      "format": "YouTube live interview · 8 min",
+      "url": "https://www.youtube.com/live/0INmsYMXkw0",
+      "summary": "Extended live Zoho segment from the India AI Impact Summit. A shorter CNBC-TV18 interview with Sujatha from the same summit is also catalogued separately.",
+      "topics": [
+        "enterprise AI",
+        "Zoho",
+        "AI summit"
+      ],
+      "status": "speaker-supplied video; publisher identifies Zoho and the summit",
+      "archive_change": "added_2026-09-25"
     },
     {
       "date": "2026-01-20",
@@ -1501,13 +1517,29 @@
       "archive_change": "previously_catalogued"
     },
     {
+      "date": "2024-11-22",
+      "title": "The Hindu and SRM AI Summit 2024 – Puthiya Thalaimurai TV coverage",
+      "outlet": "Puthiya Thalaimurai TV",
+      "type": "Video / Event Coverage",
+      "format": "YouTube news report · Tamil · 1 min",
+      "url": "https://www.youtube.com/watch?v=gkffyh06b3I",
+      "summary": "Tamil-language news report on The Hindu and SRM's 2024 AI Summit, where Sujatha took part in a cybersecurity fireside chat. The full livestream is linked in the event entry.",
+      "topics": [
+        "AI summit",
+        "AI security",
+        "speaking"
+      ],
+      "status": "speaker-supplied link; publisher identifies the summit",
+      "archive_change": "added_2026-09-25"
+    },
+    {
       "date": "2024-11-21",
       "title": "The Hindu AI Summit 2024 – AI in cybersecurity fireside chat",
       "outlet": "The Hindu AI Summit",
       "type": "Event / Speaker",
-      "format": "Fireside chat · event coverage",
-      "url": "https://www.linkedin.com/pulse/my-takeaways-from-hindus-ai-summit-2024-arun-kumar-dave-jhdzc",
-      "summary": "Fireside chat with The Hindu Group CTO Suresh Vijayaraghavan on defending against AI-enabled phishing and building next-generation security controls. A contemporaneous newspaper report identifies Sujatha and describes the session.",
+      "format": "YouTube conference livestream · starts at the linked session",
+      "url": "https://www.youtube.com/watch?v=qtdFOTHfmlI&t=19453s",
+      "summary": "The Hindu and SRM's 2024 AI summit livestream, linked at Sujatha's cybersecurity fireside chat with The Hindu Group CTO Suresh Vijayaraghavan. Event coverage also documents their discussion of AI-enabled phishing and next-generation security controls.",
       "topics": [
         "AI security",
         "phishing",
@@ -1518,9 +1550,13 @@
         {
           "label": "The Hindu newspaper report (archived scan)",
           "url": "https://appxcontent.kaxa.in/notes/2024-11-22-0.5107383647935946.pdf"
+        },
+        {
+          "label": "Attendee account of the fireside chat",
+          "url": "https://www.linkedin.com/pulse/my-takeaways-from-hindus-ai-summit-2024-arun-kumar-dave-jhdzc"
         }
       ],
-      "archive_change": "added_2026-09-25"
+      "archive_change": "updated_2026-09-25"
     },
     {
       "date": "2024-10-30",
