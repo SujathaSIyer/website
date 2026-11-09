@@ -1,25 +1,100 @@
 {
-  "last_reviewed": "2026-09-25",
+  "last_reviewed": "2026-11-09",
   "subject": "Sujatha S Iyer",
   "identity_matching_rule": "Include Sujatha S Iyer, Sujatha Iyer, Sujatha S, Sujatha, and obvious spelling/transcription variants only when ManageEngine, Zoho, Zoho Corporation, the AI-security role, or inventor/assignee context makes the identity unambiguous. Patent searches include Indian Patent Office/InPASS and US/international patent sources.",
-  "record_count": 94,
+  "record_count": 111,
   "records": [
     {
-      "date": "2025-09-21",
-      "title": "Entrepreneur 2025 – speaker listing",
-      "outlet": "Entrepreneur India",
+      "date": "2026-11-04",
+      "title": "NCSC: UK Critical Infrastructure at Risk from AI Malware",
+      "outlet": "Cyber Magazine",
+      "type": "Quoted / Expert Commentary",
+      "format": "UK cybersecurity news feature",
+      "url": "https://cybermagazine.com/news/ncsc-uk-critical-infrastructure-at-risk-from-ai-malware",
+      "summary": "A UK cyber-resilience feature quoting Sujatha S Iyer, Head of AI Security at ManageEngine, Zoho Corp., on how AI-enabled attacks could exploit existing weaknesses faster and disrupt essential services. Her remarks emphasize behavioural anomaly signals, visibility into system and user access, and the need to improve recovery times following incidents.",
+      "topics": [
+        "UK critical infrastructure",
+        "NCSC",
+        "AI malware",
+        "cyber resilience",
+        "anomaly detection",
+        "incident recovery"
+      ],
+      "status": "verified from publisher-indexed article text; automated direct fetch blocked by publisher",
+      "identity_basis": "Full name, job title and ManageEngine / Zoho Corp. association stated by publisher",
+      "archive_change": "added_2026-11-09"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Startups Must Build AI Security Into Products From Day One",
+      "outlet": "CIOL",
+      "type": "Interview / Quote",
+      "format": "Eight-question interview",
+      "url": "https://www.ciol.com/interviews/startups-ai-security-product-development-sujatha-iyer-manageengine-12776279",
+      "summary": "A dedicated interview with Sujatha S Iyer, Head of AI Security at ManageEngine, Zoho Corp., on security decisions for AI-native startups. It covers authorization before retrieval, tenant separation, third-party model data policies, agent identities and approvals, behavioural security controls, prompt-injection testing, and bringing security expertise into product design early.",
+      "topics": [
+        "AI startup security",
+        "privacy by design",
+        "third-party LLMs",
+        "access controls",
+        "agentic AI",
+        "prompt injection"
+      ],
+      "status": "verified; full publisher interview and date accessible",
+      "identity_basis": "Named interviewee and explicit ManageEngine / Zoho Corp. role",
+      "archive_change": "added_2026-11-09"
+    },
+    {
+      "date": "2026-10",
+      "title": "GirlCode and ManageEngine webinar - AI in IT: From Learning to Real-World Applications",
+      "outlet": "GirlCode Group",
       "type": "Event / Speaker",
-      "format": "Conference speaker profile",
-      "url": "https://www.entrepreneurindia.com/2025/speakers.php",
-      "summary": "Entrepreneur 2025 lists Sujatha S Iyer, Head of AI Security at ManageEngine, Zoho Corp, among the speakers for its 15th edition at Bharat Mandapam, New Delhi on 21 September 2025.",
+      "format": "Official LinkedIn event announcement",
+      "url": "https://do.linkedin.com/company/girlcodeza",
+      "summary": "Official GirlCode Group announcement names Sujatha Iyer as its upcoming ManageEngine webinar speaker, describing her experience taking AI into large-scale enterprise production, cyber defence and behavioural analytics. The post has a relative timestamp, so only October 2026 is recorded.",
       "topics": [
         "speaker",
-        "enterprise AI",
-        "Entrepreneur 2025",
-        "India"
+        "AI careers",
+        "IT",
+        "cybersecurity"
+      ],
+      "status": "verified event announcement; session is upcoming",
+      "archive_change": "added_2026-11-02"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "La IA agente redefine la ciberseguridad con nuevos desafios para las organizaciones",
+      "outlet": "Computerworld Espana",
+      "type": "Interview / Quote",
+      "format": "Spanish-language article",
+      "url": "https://www.computerworld.es/article/4225943/la-ia-agente-redefine-la-ciberseguridad-con-nuevos-desafios-para-las-organizaciones.html",
+      "summary": "Spanish feature quotes ManageEngine AI-security leader Sujatha SIyer about reward hacking in autonomous agents, unsafe intermediate actions, auditing execution paths and whether tools respect authorisation boundaries.",
+      "topics": [
+        "agentic AI",
+        "reward hacking",
+        "AI security"
       ],
       "status": "verified",
-      "archive_change": "added_2026-08-24"
+      "archive_change": "restored_2026-11-02"
+    },
+    {
+      "date": "2026-09-08",
+      "title": "ManageEngine: Philippine banks need continuous cyber visibility as AI speeds up attacks",
+      "outlet": "Fintech News Philippines",
+      "type": "Interview / Feature",
+      "format": "Article",
+      "url": "https://fintechnewsph.com/manageengine-ai-cybersecurity-philippine-banks/",
+      "summary": "An exclusive interview on how AI is compressing the attack lifecycle for Philippine banks and why defenses need continuous, context-aware visibility. Sujatha discusses risk-based vulnerability prioritization, compensating controls and virtual patching for legacy systems, just-in-time privileged access, behavior analytics for compromised administrator accounts, AI-assisted human judgment, and operational metrics such as exposure coverage, blast radius and containment time.",
+      "topics": [
+        "banking cybersecurity",
+        "AI security",
+        "vulnerability management",
+        "privileged access",
+        "continuous monitoring",
+        "Philippines"
+      ],
+      "status": "verified",
+      "archive_change": "added_2026-09-09"
     },
     {
       "date": "2026-09-08",
@@ -53,23 +128,46 @@
       "archive_change": "grant_status_updated_2026-09-09"
     },
     {
-      "date": "2026-09-08",
-      "title": "ManageEngine: Philippine banks need continuous cyber visibility as AI speeds up attacks",
-      "outlet": "Fintech News Philippines",
-      "type": "Interview / Feature",
-      "format": "Article",
-      "url": "https://fintechnewsph.com/manageengine-ai-cybersecurity-philippine-banks/",
-      "summary": "An exclusive interview on how AI is compressing the attack lifecycle for Philippine banks and why defenses need continuous, context-aware visibility. Sujatha discusses risk-based vulnerability prioritization, compensating controls and virtual patching for legacy systems, just-in-time privileged access, behavior analytics for compromised administrator accounts, AI-assisted human judgment, and operational metrics such as exposure coverage, blast radius and containment time.",
+      "date": "2026-09-01",
+      "title": "Cyber security diversity gap remains a risk in the age of AI",
+      "outlet": "ARN",
+      "type": "Quoted / Article",
+      "format": "Article, expert quote",
+      "url": "https://www.arnnet.com.au/article/4215846/cyber-securitys-diversity-gap-remains-a-risk-in-the-age-of-ai.html",
+      "summary": "A separate editorial examining the underrepresentation of women in cybersecurity; Sujatha discusses mentorship, visible role models, backing professional judgment and bringing new voices into the field.",
       "topics": [
-        "banking cybersecurity",
-        "AI security",
-        "vulnerability management",
-        "privileged access",
-        "continuous monitoring",
-        "Philippines"
+        "women in cybersecurity",
+        "career",
+        "mentorship"
       ],
       "status": "verified",
-      "archive_change": "added_2026-09-09"
+      "archive_change": "restored_2026-11-02"
+    },
+    {
+      "date": "2026-09-01",
+      "title": "International Women in Cyber Day - gender gap, mentoring and inclusive teams",
+      "outlet": "iTWire",
+      "type": "Quoted / Roundup",
+      "format": "Article and expert commentary",
+      "url": "https://itwire.com/it-people-news/enterprise-staff/international-women-in-cyber-day",
+      "summary": "Expert commentary from ManageEngine Head of AI Security Sujatha S Iyer on widening participation in cybersecurity, mentorship, visibility of women leaders and career opportunity.",
+      "topics": [
+        "women in cybersecurity",
+        "mentorship",
+        "diversity"
+      ],
+      "status": "verified",
+      "archive_change": "restored_2026-11-02",
+      "syndications": [
+        {
+          "label": "Cyber Daily related coverage",
+          "url": "https://www.cyberdaily.au/culture/14121-the-industry-speaks-international-women-in-cyber-day-2026"
+        },
+        {
+          "label": "SecurityBrief international coverage",
+          "url": "https://securitybrief.co.nz/story/women-in-cyber-security-gap-prompts-diversity-push"
+        }
+      ]
     },
     {
       "date": "2026-08-31",
@@ -233,27 +331,20 @@
       "archive_change": "added_2026-08-24"
     },
     {
-      "date": "2026-07-15",
-      "title": "The Success Of AI Will Ultimately Be Determined By Trust",
-      "outlet": "Modern Marketing",
-      "type": "Quoted / Expert Commentary",
-      "format": "Article",
-      "url": "https://modernmarketing.co.za/the-success-of-ai-will-ultimately-be-determined-by-trust/",
-      "summary": "Sujatha argues that successful AI adoption depends on secure, transparent and well-governed IT foundations. The piece emphasizes trustworthy data, cybersecurity, visibility and human oversight rather than treating automation alone as the measure of AI success.",
+      "date": "2026-07-16",
+      "title": "AI Appreciation Day: Beyond the AI hype, where real enterprise opportunities are emerging",
+      "outlet": "DQChannels",
+      "type": "Quoted / Roundup",
+      "format": "Article, direct expert quotation",
+      "url": "https://www.dqchannels.com/emerging-tech/ai-appreciation-day-enterprise-ai-opportunities-12169970",
+      "summary": "Independent AI Appreciation Day industry feature quotes Sujatha S Iyer, Head of AI Security at ManageEngine, on governance lagging AI adoption, digital sovereignty, access controls, transparency and India's DPDP Act.",
       "topics": [
-        "responsible AI",
-        "trust",
-        "governance",
-        "cybersecurity"
+        "AI governance",
+        "digital sovereignty",
+        "DPDP Act"
       ],
       "status": "verified",
-      "syndications": [
-        {
-          "label": "AI Impact South Africa",
-          "url": "https://ai-impact.co.za/ai-appreciation-day-why-trust-not-automation-will-determine-ais-success/"
-        }
-      ],
-      "archive_change": "previously_catalogued"
+      "archive_change": "added_2026-11-02"
     },
     {
       "date": "2026-07-15",
@@ -280,6 +371,29 @@
           "url": "https://www.smetechguru.co.za/ai-appreciation-day-why-trust-not-automation-will-determine-ais-success/"
         }
       ]
+    },
+    {
+      "date": "2026-07-15",
+      "title": "The Success Of AI Will Ultimately Be Determined By Trust",
+      "outlet": "Modern Marketing",
+      "type": "Quoted / Expert Commentary",
+      "format": "Article",
+      "url": "https://modernmarketing.co.za/the-success-of-ai-will-ultimately-be-determined-by-trust/",
+      "summary": "Sujatha argues that successful AI adoption depends on secure, transparent and well-governed IT foundations. The piece emphasizes trustworthy data, cybersecurity, visibility and human oversight rather than treating automation alone as the measure of AI success.",
+      "topics": [
+        "responsible AI",
+        "trust",
+        "governance",
+        "cybersecurity"
+      ],
+      "status": "verified",
+      "syndications": [
+        {
+          "label": "AI Impact South Africa",
+          "url": "https://ai-impact.co.za/ai-appreciation-day-why-trust-not-automation-will-determine-ais-success/"
+        }
+      ],
+      "archive_change": "previously_catalogued"
     },
     {
       "date": "2026-07-14",
@@ -520,22 +634,6 @@
     },
     {
       "date": "2026-03-08",
-      "title": "Why do so few women reach India’s boardrooms, leave alone the top?",
-      "outlet": "The Federal",
-      "type": "Interview / Quote",
-      "format": "Article · interview excerpts",
-      "url": "https://thefederal.com/category/womens-march/why-do-so-few-women-reach-indias-boardrooms-leave-alone-the-top-233339",
-      "summary": "A Women’s Day report quoting Sujatha on self-doubt, family responsibilities and the timing of career advancement for women aspiring to leadership roles.",
-      "topics": [
-        "women in tech",
-        "leadership",
-        "career"
-      ],
-      "status": "verified from indexed publisher article",
-      "archive_change": "added_2026-09-25"
-    },
-    {
-      "date": "2026-03-08",
       "title": "IWD 2026 Leadership Series: Sujatha S Iyer | Zoho Corporation",
       "outlet": "Techitup Middle East",
       "type": "Interview / Profile",
@@ -549,6 +647,22 @@
         "career"
       ],
       "status": "verified",
+      "archive_change": "added_2026-09-25"
+    },
+    {
+      "date": "2026-03-08",
+      "title": "Why do so few women reach India’s boardrooms, leave alone the top?",
+      "outlet": "The Federal",
+      "type": "Interview / Quote",
+      "format": "Article · interview excerpts",
+      "url": "https://thefederal.com/category/womens-march/why-do-so-few-women-reach-indias-boardrooms-leave-alone-the-top-233339",
+      "summary": "A Women’s Day report quoting Sujatha on self-doubt, family responsibilities and the timing of career advancement for women aspiring to leadership roles.",
+      "topics": [
+        "women in tech",
+        "leadership",
+        "career"
+      ],
+      "status": "verified from indexed publisher article",
       "archive_change": "added_2026-09-25"
     },
     {
@@ -567,6 +681,60 @@
       ],
       "status": "verified",
       "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Zoho’s approach to AI: responsibility, privacy and security",
+      "outlet": "Zoho Middle East & North Africa",
+      "type": "Official / Video",
+      "format": "YouTube video · also on LinkedIn",
+      "url": "https://www.youtube.com/watch?v=akk0L45JnWA",
+      "summary": "A short official Zoho video in which Sujatha discusses AI responsibility, privacy and security, including the need to strengthen the human layer and Zoho’s policy of not using customer data for model training.",
+      "topics": [
+        "responsible AI",
+        "privacy",
+        "human risk",
+        "Zoho"
+      ],
+      "status": "verified",
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "Zoho MENA LinkedIn video",
+          "url": "https://www.linkedin.com/posts/zoho-mena_ai-is-everywhere-right-now-and-questions-activity-7435292661974204416-ie2O"
+        }
+      ]
+    },
+    {
+      "date": "2026-03",
+      "title": "Women in Tech and Security: Breaking Down Industry Barriers",
+      "outlet": "KBI.Media",
+      "type": "Interview / Profile",
+      "format": "Publisher confirmation",
+      "url": "https://www.linkedin.com/posts/media-kbi_international-womens-day-give-to-gain-activity-7436604517783076864-Sb4F",
+      "summary": "An official KBI.Media International Women's Day announcement names Sujatha S Iyer among the technology and cybersecurity leaders profiled. No unverified quotation is attributed to her.",
+      "topics": [
+        "women in tech",
+        "leadership"
+      ],
+      "status": "publisher listing verified; article text inaccessible",
+      "archive_change": "restored_2026-11-02"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "Akamai to convene India tech leaders for closed-door summit on running AI at scale",
+      "outlet": "YourStory",
+      "type": "Event / Speaker",
+      "format": "Pre-event announcement",
+      "url": "https://yourstory.com/2026/02/akamai-convene-indias-tech-leaders-closed-door-summit-running-ai-real-world-scale",
+      "summary": "A pre-event announcement of the Akamai Digital India Leadership Summit separately identifies Sujatha Iyer as Head of AI Security at Zoho Corp, among the invited technology and engineering leaders.",
+      "topics": [
+        "speaker",
+        "enterprise AI",
+        "infrastructure"
+      ],
+      "status": "verified",
+      "archive_change": "restored_2026-11-02"
     },
     {
       "date": "2026-02-19",
@@ -605,6 +773,23 @@
     },
     {
       "date": "2026-02-17",
+      "title": "‘SaaSpocalypse’ is a myth, says Zoho’s AI head",
+      "outlet": "NewsBytes",
+      "type": "Quoted / Coverage",
+      "format": "Article",
+      "url": "https://www.newsbytesapp.com/news/science/saaspocalypse-is-a-myth-says-zohos-ai-head/tldr",
+      "summary": "Coverage of Sujatha’s CNBC-TV18 remarks rejecting the idea that AI will simply wipe out SaaS. The core argument is that enterprise applications still provide the context, permissions, privacy controls and governed data boundaries AI needs to act usefully.",
+      "topics": [
+        "SaaS",
+        "enterprise AI",
+        "context",
+        "privacy"
+      ],
+      "status": "verified",
+      "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2026-02-17",
       "title": "India AI Impact Summit 2026 | India Leading AI Impact Movement | Sujatha S Iyer",
       "outlet": "CNBC-TV18",
       "type": "Video / Interview",
@@ -632,23 +817,6 @@
     },
     {
       "date": "2026-02-17",
-      "title": "‘SaaSpocalypse’ is a myth, says Zoho’s AI head",
-      "outlet": "NewsBytes",
-      "type": "Quoted / Coverage",
-      "format": "Article",
-      "url": "https://www.newsbytesapp.com/news/science/saaspocalypse-is-a-myth-says-zohos-ai-head/tldr",
-      "summary": "Coverage of Sujatha’s CNBC-TV18 remarks rejecting the idea that AI will simply wipe out SaaS. The core argument is that enterprise applications still provide the context, permissions, privacy controls and governed data boundaries AI needs to act usefully.",
-      "topics": [
-        "SaaS",
-        "enterprise AI",
-        "context",
-        "privacy"
-      ],
-      "status": "verified",
-      "archive_change": "previously_catalogued"
-    },
-    {
-      "date": "2026-02-17",
       "title": "Zoho on CNBC-TV18 live at India AI Impact Summit 2026",
       "outlet": "CNBC-TV18",
       "type": "Video / Interview",
@@ -662,6 +830,54 @@
       ],
       "status": "speaker-supplied video; publisher identifies Zoho and the summit",
       "archive_change": "added_2026-09-25"
+    },
+    {
+      "date": "2026-02-10",
+      "title": "Global CyberPeace Summit 2.0 - War in the Socio-Technical-Cognitive Battlespace",
+      "outlet": "CyberPeace Summit",
+      "type": "Event / Speaker",
+      "format": "Organiser recap",
+      "url": "https://www.linkedin.com/posts/cyberpeace-summit_cyberpeacesummit-atmanirbharbharat-defenceinnovation-activity-7430524234168246272-VpHI",
+      "summary": "Official summit organiser identifies Sujatha S Iyer, Head of AI Security at Zoho, as a defence-track panellist discussing technological readiness and strategic autonomy.",
+      "topics": [
+        "speaker",
+        "cybersecurity",
+        "AI"
+      ],
+      "status": "verified",
+      "archive_change": "restored_2026-11-02"
+    },
+    {
+      "date": "2026-01-31",
+      "title": "ManageEngine Day 2026 - contextual, right-sized enterprise AI",
+      "outlet": "Manager Online (Thailand)",
+      "type": "Quoted / Interview",
+      "format": "Thai-language news feature",
+      "url": "https://mgronline.com/cyberbiz/detail/9690000010123",
+      "summary": "Thai coverage of ManageEngine Day identifies Sujatha as Zoho Head of AI Security and discusses right-sized AI, context-aware deployment, explainability, privacy and agentic use cases.",
+      "topics": [
+        "enterprise AI",
+        "privacy",
+        "interview"
+      ],
+      "status": "verified",
+      "archive_change": "restored_2026-11-02"
+    },
+    {
+      "date": "2026-01-21",
+      "title": "Zoho Berkomitmen Tak Monetisasi Data Pengguna dan Patuhi Hukum Tiap Negara",
+      "outlet": "KONTAN (Indonesia)",
+      "type": "Interview / Quote",
+      "format": "Indonesian-language article",
+      "url": "https://industri.kontan.co.id/news/zoho-berkomitmen-tak-monetisasi-data-pengguna-dan-patuhi-hukum-tiap-negara",
+      "summary": "KONTAN identifies Sujatha as Zoho Head of AI Security and quotes her on anonymisation, masking, restricted employee access and auditing of customer data; original publisher access is limited.",
+      "topics": [
+        "privacy",
+        "customer data",
+        "AI"
+      ],
+      "status": "verified via indexed publisher-attributed content",
+      "archive_change": "restored_2026-11-02"
     },
     {
       "date": "2026-01-20",
@@ -679,84 +895,6 @@
       ],
       "status": "verified",
       "archive_change": "previously_catalogued"
-    },
-    {
-      "date": "2025-12-18",
-      "title": "Zoho’s Head of AI Security about BIT Sathyamangalam | Smt. Sujatha S Iyer",
-      "outlet": "Bannari Amman Institute of Technology",
-      "type": "Video",
-      "format": "YouTube",
-      "url": "https://www.youtube.com/watch?v=WhEJJFGKnBk",
-      "summary": "A campus-focused video in which Sujatha shares impressions of BIT Sathyamangalam, its learning environment and career-oriented education. It is a non-security appearance but is clearly attributable through her Zoho title.",
-      "topics": [
-        "education",
-        "campus",
-        "career"
-      ],
-      "status": "verified",
-      "archive_change": "updated_2026-09-25",
-      "syndications": [
-        {
-          "label": "Alternate BIT upload",
-          "url": "https://www.youtube.com/watch?v=ZkqCgo0wSxI"
-        }
-      ]
-    },
-    {
-      "date": "2025-07-16",
-      "title": "Voices of the Future: Celebrating AI Appreciation Day",
-      "outlet": "CXOtoday",
-      "type": "Quoted / Roundup",
-      "format": "Article · expert commentary",
-      "url": "https://cxotoday.com/corner-office/voices-of-the-future-celebrating-ai-appreciation-day7/",
-      "summary": "A separate AI Appreciation Day roundup quoting Sujatha on creative and critical-thinking skills, responsible AI, transparency and meaningful upskilling. Her contribution differs from the quote carried by CXO Digital Pulse on the same day.",
-      "topics": [
-        "AI adoption",
-        "future of work",
-        "responsible AI"
-      ],
-      "status": "verified",
-      "archive_change": "added_2026-09-25"
-    },
-    {
-      "date": "2025-07-01",
-      "title": "TechLeader Voices – AI security, digital maturity and enterprise AI ROI",
-      "outlet": "TechLeader",
-      "type": "Video / Interview",
-      "format": "YouTube",
-      "url": "https://www.youtube.com/watch?v=KHYRfJ514Bc",
-      "summary": "A TechLeader video, corroborated by the publisher’s indexed social post, on AI used offensively and defensively in security. The surrounding coverage highlights digital maturity, AI ROI, insider-threat detection, explainability and privacy-by-design.",
-      "topics": [
-        "AI security",
-        "UEBA",
-        "digital maturity",
-        "ROI"
-      ],
-      "status": "verified from publisher's video description",
-      "archive_change": "updated_2026-09-25"
-    },
-    {
-      "date": "2026-03-05",
-      "title": "Zoho’s approach to AI: responsibility, privacy and security",
-      "outlet": "Zoho Middle East & North Africa",
-      "type": "Official / Video",
-      "format": "YouTube video · also on LinkedIn",
-      "url": "https://www.youtube.com/watch?v=akk0L45JnWA",
-      "summary": "A short official Zoho video in which Sujatha discusses AI responsibility, privacy and security, including the need to strengthen the human layer and Zoho’s policy of not using customer data for model training.",
-      "topics": [
-        "responsible AI",
-        "privacy",
-        "human risk",
-        "Zoho"
-      ],
-      "status": "verified",
-      "archive_change": "updated_2026-09-25",
-      "syndications": [
-        {
-          "label": "Zoho MENA LinkedIn video",
-          "url": "https://www.linkedin.com/posts/zoho-mena_ai-is-everywhere-right-now-and-questions-activity-7435292661974204416-ie2O"
-        }
-      ]
     },
     {
       "date": "2026",
@@ -780,6 +918,28 @@
         {
           "label": "Official event gallery",
           "url": "https://etnowgbs.com/glimpses/"
+        }
+      ]
+    },
+    {
+      "date": "2025-12-18",
+      "title": "Zoho’s Head of AI Security about BIT Sathyamangalam | Smt. Sujatha S Iyer",
+      "outlet": "Bannari Amman Institute of Technology",
+      "type": "Video",
+      "format": "YouTube",
+      "url": "https://www.youtube.com/watch?v=WhEJJFGKnBk",
+      "summary": "A campus-focused video in which Sujatha shares impressions of BIT Sathyamangalam, its learning environment and career-oriented education. It is a non-security appearance but is clearly attributable through her Zoho title.",
+      "topics": [
+        "education",
+        "campus",
+        "career"
+      ],
+      "status": "verified",
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "Alternate BIT upload",
+          "url": "https://www.youtube.com/watch?v=ZkqCgo0wSxI"
         }
       ]
     },
@@ -832,28 +992,40 @@
       "archive_change": "added_2026-09-25"
     },
     {
+      "date": "2025-11-24",
+      "title": "At C-Level Podcast - retrofitting AI into legacy systems",
+      "outlet": "At C-Level Podcast",
+      "type": "Podcast / Interview",
+      "format": "Podcast promotion, publisher source",
+      "url": "https://www.linkedin.com/posts/at-c-level_atclevelpodcast-ai-technology-activity-7398664075729063941-oX3I",
+      "summary": "Publisher-announced episode featuring insights from Sujatha S Iyer, Head of AI Security at Zoho, on introducing AI into legacy enterprise technology stacks and evaluating modernization trade-offs.",
+      "topics": [
+        "legacy systems",
+        "enterprise AI",
+        "AI modernization"
+      ],
+      "status": "verified",
+      "archive_change": "restored_2026-11-02"
+    },
+    {
       "date": "2025-11-18",
-      "title": "AICTE AI Summit 2025 – chief guest address and full recording",
+      "title": "AICTE AI Summit 2025 – ‘AI in India: Opportunities and Challenges’",
       "outlet": "Bannari Amman Institute of Technology",
       "type": "Video / Event",
-      "format": "YouTube event recording",
+      "format": "YouTube full event recording",
       "url": "https://www.youtube.com/watch?v=-hd6hJM05uQ",
-      "summary": "Bannari Amman Institute of Technology's full AICTE AI Summit 2025 recording includes Sujatha's chief guest address on AI in India. The institute's invitation and event post identify her as the chief guest for the 18 November programme.",
+      "summary": "The official summit invitation lists Sujatha as a chief guest / panel participant for a session on AI opportunities and challenges in India.",
       "topics": [
         "AI in India",
         "education",
         "speaker"
       ],
       "status": "verified",
-      "archive_change": "updated_2026-09-25",
+      "archive_change": "previously_catalogued",
       "syndications": [
         {
-          "label": "Official event invitation",
+          "label": "Official invitation",
           "url": "https://www.bitsathy.ac.in/wp-content/uploads/AICTE-AI-Sumit-Invitation-2025.pdf"
-        },
-        {
-          "label": "BIT event post",
-          "url": "https://www.linkedin.com/posts/bitsathyindia_aicteaisummit2025-artificialintelligence-activity-7396488528915910656-2YkF"
         }
       ]
     },
@@ -874,6 +1046,23 @@
       ],
       "status": "verified",
       "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2025-11-11",
+      "title": "The AI cybersecurity mutation with Sujatha S Iyer and Ramanathan Kannabiran",
+      "outlet": "ManageEngine",
+      "type": "Video",
+      "format": "YouTube",
+      "url": "https://www.youtube.com/watch?v=kOEKQFQi3b8",
+      "summary": "A ManageEngine conversation tracing the evolution from classical machine learning and deep learning to LLMs, generative AI and agents. It connects those shifts to threat detection, identity security, behavioral analytics, adaptive authentication and privileged access.",
+      "topics": [
+        "AI evolution",
+        "identity security",
+        "behavior analytics",
+        "PAM"
+      ],
+      "status": "verified",
+      "archive_change": "updated_2026-09-25"
     },
     {
       "date": "2025-11-06",
@@ -947,6 +1136,22 @@
       ],
       "status": "verified",
       "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2025-10-16",
+      "title": "CII Connect 2025 - AI defence must match AI-enabled threats",
+      "outlet": "CII Southern Region",
+      "type": "Event / Speaker",
+      "format": "Organizer event coverage",
+      "url": "https://www.linkedin.com/posts/cii-southern-region_ciiconnect2025-artificialintelligence-activity-7384659117551968258-ovKs",
+      "summary": "Official CII Connect conference coverage identifies Sujatha as Head of AI (Security), Zoho, and relays her message that defence against AI-powered attacks requires intelligent AI-enabled approaches.",
+      "topics": [
+        "conference",
+        "cyber defence",
+        "AI security"
+      ],
+      "status": "verified",
+      "archive_change": "restored_2026-11-02"
     },
     {
       "date": "2025-10-09",
@@ -1042,6 +1247,47 @@
       "archive_change": "added_2026-08-24"
     },
     {
+      "date": "2025-09-23",
+      "title": "Entrepreneur 2025 - speaker and AI-led transformation roundtable",
+      "outlet": "Entrepreneur India",
+      "type": "Event / Speaker",
+      "format": "Conference speaker listing",
+      "url": "https://www.entrepreneurindia.com/2025/speakers.php",
+      "summary": "The official Entrepreneur 2025 speaker and agenda pages identify Sujatha S Iyer, Head of AI Security at ManageEngine, Zoho Corp, among the event participants in the AI-led transformation roundtable.",
+      "topics": [
+        "speaker",
+        "enterprise AI",
+        "Entrepreneur 2025"
+      ],
+      "status": "verified",
+      "archive_change": "restored_2026-11-02",
+      "syndications": [
+        {
+          "label": "2025 conference agenda",
+          "url": "https://www.entrepreneurindia.com/2025/conference-agenda.php"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-12",
+      "title": "Zoho delivers a new AI ecosystem, but is it “explainable”?",
+      "outlet": "Bloor Research",
+      "type": "Interview / Quote",
+      "format": "Analyst article with on-record interview",
+      "url": "https://www.bloorresearch.com/zoho-delivers-a-new-ai-ecosystem-but-is-it-explainable/",
+      "summary": "Bloor analyst David Norfolk interviews Sujatha Iyer, identified as the leader of Zoho’s AI-security research, about LLM confirmation bias, unreliable generated explanations, deterministic and statistical alternatives, the cost of oversized models, and access boundaries in Zoho’s AI ecosystem.",
+      "topics": [
+        "LLM explainability",
+        "right-sized AI",
+        "confirmation bias",
+        "deterministic analytics",
+        "access control"
+      ],
+      "status": "verified; full publisher article dated 12 September 2025",
+      "identity_basis": "Zoho affiliation and clear description of AI-security leadership role in publisher article",
+      "archive_change": "added_2026-11-09"
+    },
+    {
       "date": "2025-09",
       "title": "Context is the new perimeter",
       "outlet": "PCQuest",
@@ -1078,6 +1324,29 @@
       "archive_change": "added_2026-08-24"
     },
     {
+      "date": "2025-08-01",
+      "title": "Knowledge Series Ep. 5 – AI for Startups with Sujatha",
+      "outlet": "Zoho for Startups",
+      "type": "Official / Video",
+      "format": "YouTube video · Zoho for Startups Knowledge Series",
+      "url": "https://www.youtube.com/watch?v=K-vckGm6gGU",
+      "summary": "Zoho for Startups episode with Sujatha on building clean, structured data and digital maturity before introducing AI into a startup's workflows.",
+      "topics": [
+        "startups",
+        "data architecture",
+        "AI readiness",
+        "digital maturity"
+      ],
+      "status": "verified",
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "Zoho for Startups LinkedIn post",
+          "url": "https://www.linkedin.com/posts/zoho-for-startups_knowledge-series-episode-5-ai-for-startups-activity-7356982451539202049-RvZ5"
+        }
+      ]
+    },
+    {
       "date": "2025-07-27",
       "title": "From code to catastrophe: The real cost of ignoring AI security",
       "outlet": "ET Edge Insights",
@@ -1095,6 +1364,22 @@
       "archive_change": "previously_catalogued"
     },
     {
+      "date": "2025-07-17",
+      "title": "Employee curiosity fuels Shadow AI adoption faster than IT can keep up",
+      "outlet": "FastForward (Boldstart)",
+      "type": "Interview / Quote",
+      "format": "Editorial article, direct quotations",
+      "url": "https://fastforward.boldstart.vc/employee-curiosity-fuels-shadow-ai-adoption-faster-than-it-can-keep-up/",
+      "summary": "Ron Miller interviews ManageEngine Head of AI Security Sujatha Iyer on why Shadow AI spreads faster than formal approval processes, employee demand for useful AI tools, governance gaps and data-leakage risk.",
+      "topics": [
+        "shadow AI",
+        "data security",
+        "employee education"
+      ],
+      "status": "verified",
+      "archive_change": "added_2026-11-02"
+    },
+    {
       "date": "2025-07-16",
       "title": "AI Appreciation Day 2025 – Sujatha Iyer quote",
       "outlet": "CXO Digital Pulse",
@@ -1109,6 +1394,39 @@
       ],
       "status": "verified",
       "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2025-07-16",
+      "title": "Voices of the Future: Celebrating AI Appreciation Day",
+      "outlet": "CXOtoday",
+      "type": "Quoted / Roundup",
+      "format": "Article · expert commentary",
+      "url": "https://cxotoday.com/corner-office/voices-of-the-future-celebrating-ai-appreciation-day7/",
+      "summary": "A separate AI Appreciation Day roundup quoting Sujatha on creative and critical-thinking skills, responsible AI, transparency and meaningful upskilling. Her contribution differs from the quote carried by CXO Digital Pulse on the same day.",
+      "topics": [
+        "AI adoption",
+        "future of work",
+        "responsible AI"
+      ],
+      "status": "verified",
+      "archive_change": "added_2026-09-25"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "TechLeader Voices – AI security, digital maturity and enterprise AI ROI",
+      "outlet": "TechLeader",
+      "type": "Video / Interview",
+      "format": "YouTube",
+      "url": "https://www.youtube.com/watch?v=KHYRfJ514Bc",
+      "summary": "A TechLeader video, corroborated by the publisher’s indexed social post, on AI used offensively and defensively in security. The surrounding coverage highlights digital maturity, AI ROI, insider-threat detection, explainability and privacy-by-design.",
+      "topics": [
+        "AI security",
+        "UEBA",
+        "digital maturity",
+        "ROI"
+      ],
+      "status": "verified from publisher's video description",
+      "archive_change": "updated_2026-09-25"
     },
     {
       "date": "2025-07",
@@ -1146,6 +1464,33 @@
       "grant_date": "2025-06-17",
       "jurisdiction": "United States",
       "patentee": "ZOHO CORPORATION PRIVATE LIMITED"
+    },
+    {
+      "date": "2025-05-11",
+      "title": "National Technology Day: Celebrating India’s Innovation Journey",
+      "outlet": "CXOtoday",
+      "type": "Quoted / Roundup",
+      "format": "Article",
+      "url": "https://cxotoday.com/corner-office/national-technology-day-celebrating-indias-innovation-journey/",
+      "summary": "A National Technology Day leadership roundup carrying Sujatha’s perspective on AI-driven cyber defense, predictive resilience, emerging GenAI threats, sovereign AI and the need for transparent, auditable and resilient systems.",
+      "topics": [
+        "India",
+        "innovation",
+        "sovereign AI",
+        "cyber resilience"
+      ],
+      "status": "verified",
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "Tata Elxsi republication",
+          "url": "https://www.tataelxsi.com/news-and-events/news/national-technology-day-celebrating-indias-innovation-journey"
+        },
+        {
+          "label": "VARINDIA roundup",
+          "url": "https://www.varindia.com/public/index.php/news/11th-May-%3A-Honouring-India%E2%80%99s-Tech-Triumphs-and-Future-Innovation"
+        }
+      ]
     },
     {
       "date": "2025-04-24",
@@ -1187,6 +1532,27 @@
       ]
     },
     {
+      "date": "2025-03-08",
+      "title": "Phu nu trong nganh cong nghe dang thay doi tuong lai ra sao?",
+      "outlet": "Phap Luat TP. Ho Chi Minh",
+      "type": "Interview / Profile",
+      "format": "Vietnamese-language interview",
+      "url": "https://tuoitre.vn/plo/phu-nu-trong-nganh-cong-nghe-dang-thay-doi-tuong-lai-ra-sao-109838005.htm",
+      "summary": "Vietnamese interview with Sujatha S Iyer, Head of AI Security at ManageEngine and Zoho, on career growth, mentorship and the participation of women in technology.",
+      "topics": [
+        "women in tech",
+        "mentorship"
+      ],
+      "status": "verified",
+      "archive_change": "restored_2026-11-02",
+      "syndications": [
+        {
+          "label": "Related Vietnamese women-in-business feature reusing commentary",
+          "url": "https://tuoitre.vn/phunuonline/phu-nu-lam-kinh-doanh-dung-nghi-minh-thua-thiet-1101543715.htm"
+        }
+      ]
+    },
+    {
       "date": "2025-03-05",
       "title": "From doubt to influence: How are women in tech revolutionizing the future?",
       "outlet": "Intelligent CIO APAC · BusinessToday Malaysia · The Edge Singapore · The Story Thailand",
@@ -1223,23 +1589,6 @@
     },
     {
       "date": "2025-03-04",
-      "title": "We can’t ‘Accelerate Action’ while plagued with self-doubt",
-      "outlet": "CFOtech Australia",
-      "type": "Authored",
-      "format": "Article",
-      "url": "https://cfotech.com.au/story/we-can-t-accelerate-action-while-plagued-with-self-doubt",
-      "summary": "An authored International Women’s Day reflection on how self-doubt can slow progress for women in technology. It connects AI and cybersecurity work with experimentation, risk-taking, learning from failure and building the resilience to keep attempting hard problems.",
-      "topics": [
-        "women in tech",
-        "self-doubt",
-        "resilience",
-        "AI careers"
-      ],
-      "status": "verified",
-      "archive_change": "previously_catalogued"
-    },
-    {
-      "date": "2025-03-04",
       "title": "Security is no longer an afterthought; it must be embedded into every stage of AI development",
       "outlet": "Express Computer",
       "type": "Interview / Feature",
@@ -1251,6 +1600,23 @@
         "privacy",
         "security-by-design",
         "compliance"
+      ],
+      "status": "verified",
+      "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2025-03-04",
+      "title": "We can’t ‘Accelerate Action’ while plagued with self-doubt",
+      "outlet": "CFOtech Australia",
+      "type": "Authored",
+      "format": "Article",
+      "url": "https://cfotech.com.au/story/we-can-t-accelerate-action-while-plagued-with-self-doubt",
+      "summary": "An authored International Women’s Day reflection on how self-doubt can slow progress for women in technology. It connects AI and cybersecurity work with experimentation, risk-taking, learning from failure and building the resilience to keep attempting hard problems.",
+      "topics": [
+        "women in tech",
+        "self-doubt",
+        "resilience",
+        "AI careers"
       ],
       "status": "verified",
       "archive_change": "previously_catalogued"
@@ -1302,22 +1668,6 @@
     },
     {
       "date": "2025-02-21",
-      "title": "Want to work in AI? Learn your calculus",
-      "outlet": "The Times of India · Times Techies",
-      "type": "Interview / Feature",
-      "format": "Article",
-      "url": "https://timesofindia.indiatimes.com/technology/times-techies/want-to-work-in-ai-learn-your-calculus/articleshow/118433878.cms",
-      "summary": "A profile on the importance of mathematical fundamentals for AI careers. Sujatha argues that generated code does not remove the need to understand models, data, trade-offs and deployment decisions well enough to judge whether an AI-produced solution makes sense.",
-      "topics": [
-        "AI careers",
-        "mathematics",
-        "fundamentals"
-      ],
-      "status": "verified",
-      "archive_change": "previously_catalogued"
-    },
-    {
-      "date": "2025-02-21",
       "title": "Focus on Fostering a Culture of Learning and Resilience",
       "outlet": "Security Review Magazine",
       "type": "Interview / Profile",
@@ -1329,6 +1679,22 @@
         "learning culture",
         "resilience",
         "research"
+      ],
+      "status": "verified",
+      "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2025-02-21",
+      "title": "Want to work in AI? Learn your calculus",
+      "outlet": "The Times of India · Times Techies",
+      "type": "Interview / Feature",
+      "format": "Article",
+      "url": "https://timesofindia.indiatimes.com/technology/times-techies/want-to-work-in-ai-learn-your-calculus/articleshow/118433878.cms",
+      "summary": "A profile on the importance of mathematical fundamentals for AI careers. Sujatha argues that generated code does not remove the need to understand models, data, trade-offs and deployment decisions well enough to judge whether an AI-produced solution makes sense.",
+      "topics": [
+        "AI careers",
+        "mathematics",
+        "fundamentals"
       ],
       "status": "verified",
       "archive_change": "previously_catalogued"
@@ -1352,88 +1718,6 @@
       "archive_change": "previously_catalogued"
     },
     {
-      "date": "2025-11-11",
-      "title": "The AI cybersecurity mutation with Sujatha S Iyer and Ramanathan Kannabiran",
-      "outlet": "ManageEngine",
-      "type": "Video",
-      "format": "YouTube",
-      "url": "https://www.youtube.com/watch?v=kOEKQFQi3b8",
-      "summary": "A ManageEngine conversation tracing the evolution from classical machine learning and deep learning to LLMs, generative AI and agents. It connects those shifts to threat detection, identity security, behavioral analytics, adaptive authentication and privileged access.",
-      "topics": [
-        "AI evolution",
-        "identity security",
-        "behavior analytics",
-        "PAM"
-      ],
-      "status": "verified",
-      "archive_change": "updated_2026-09-25"
-    },
-    {
-      "date": "2025",
-      "title": "Women Trailblazers Driving Success: Rewriting the rules of Tech",
-      "outlet": "VAR India",
-      "type": "Quoted / Profile Roundup",
-      "format": "Article",
-      "url": "https://www.varindia.com/news/women-trailblazers-driving-success-rewriting-the-rules-of-tech-leaders",
-      "summary": "A women-in-technology leadership roundup that includes Sujatha S Iyer, Head of AI (Security), Zoho Corp. Search indexing exposes limited text for her individual contribution, so the archive records the mention without over-interpreting it.",
-      "topics": [
-        "women in tech",
-        "leadership"
-      ],
-      "status": "verified – limited indexed preview",
-      "archive_change": "previously_catalogued"
-    },
-    {
-      "date": "2025-05-11",
-      "title": "National Technology Day: Celebrating India’s Innovation Journey",
-      "outlet": "CXOtoday",
-      "type": "Quoted / Roundup",
-      "format": "Article",
-      "url": "https://cxotoday.com/corner-office/national-technology-day-celebrating-indias-innovation-journey/",
-      "summary": "A National Technology Day leadership roundup carrying Sujatha’s perspective on AI-driven cyber defense, predictive resilience, emerging GenAI threats, sovereign AI and the need for transparent, auditable and resilient systems.",
-      "topics": [
-        "India",
-        "innovation",
-        "sovereign AI",
-        "cyber resilience"
-      ],
-      "status": "verified",
-      "archive_change": "updated_2026-09-25",
-      "syndications": [
-        {
-          "label": "Tata Elxsi republication",
-          "url": "https://www.tataelxsi.com/news-and-events/news/national-technology-day-celebrating-indias-innovation-journey"
-        },
-        {
-          "label": "VARINDIA roundup",
-          "url": "https://www.varindia.com/public/index.php/news/11th-May-%3A-Honouring-India%E2%80%99s-Tech-Triumphs-and-Future-Innovation"
-        }
-      ]
-    },
-    {
-      "date": "2025-08-01",
-      "title": "Knowledge Series Ep. 5 – AI for Startups with Sujatha",
-      "outlet": "Zoho for Startups",
-      "type": "Official / Video",
-      "format": "YouTube video · Zoho for Startups Knowledge Series",
-      "url": "https://www.youtube.com/watch?v=K-vckGm6gGU",
-      "summary": "Zoho for Startups episode with Sujatha on building clean, structured data and digital maturity before introducing AI into a startup's workflows.",
-      "topics": [
-        "startups",
-        "data architecture",
-        "AI readiness",
-        "digital maturity"
-      ],
-      "status": "verified",
-      "archive_change": "updated_2026-09-25",
-      "syndications": [
-        {
-          "label": "Zoho for Startups LinkedIn post",
-          "url": "https://www.linkedin.com/posts/zoho-for-startups_knowledge-series-episode-5-ai-for-startups-activity-7356982451539202049-RvZ5"
-        }
-      ]
-    },
-    {
       "date": "2025",
       "title": "ManageEngine Responsible AI – Sujatha S Iyer profile quote",
       "outlet": "ManageEngine",
@@ -1448,6 +1732,21 @@
         "ManageEngine"
       ],
       "status": "verified",
+      "archive_change": "previously_catalogued"
+    },
+    {
+      "date": "2025",
+      "title": "Women Trailblazers Driving Success: Rewriting the rules of Tech",
+      "outlet": "VAR India",
+      "type": "Quoted / Profile Roundup",
+      "format": "Article",
+      "url": "https://www.varindia.com/news/women-trailblazers-driving-success-rewriting-the-rules-of-tech-leaders",
+      "summary": "A women-in-technology leadership roundup that includes Sujatha S Iyer, Head of AI (Security), Zoho Corp. Search indexing exposes limited text for her individual contribution, so the archive records the mention without over-interpreting it.",
+      "topics": [
+        "women in tech",
+        "leadership"
+      ],
+      "status": "verified – limited indexed preview",
       "archive_change": "previously_catalogued"
     },
     {
@@ -1531,6 +1830,28 @@
       ],
       "status": "speaker-supplied link; publisher identifies the summit",
       "archive_change": "added_2026-09-25"
+    },
+    {
+      "date": "2024-11-22",
+      "title": "Use AI to combat AI – The Hindu AI Summit 2024",
+      "outlet": "The Hindu · AI Summit 2024",
+      "type": "Article / Event Coverage",
+      "format": "The Hindu article",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/use-ai-to-combat-ai/article68894481.ece",
+      "summary": "The Hindu's report on Sujatha's AI Summit 2024 fireside chat describes using AI to defend against AI-enabled threats. The newspaper scan remains available as a related source.",
+      "topics": [
+        "AI security",
+        "speaker",
+        "AI summit"
+      ],
+      "status": "verified from publisher article",
+      "archive_change": "updated_2026-09-25",
+      "syndications": [
+        {
+          "label": "Newspaper scan",
+          "url": "https://appxcontent.kaxa.in/notes/2024-11-22-0.5107383647935946.pdf"
+        }
+      ]
     },
     {
       "date": "2024-11-21",
@@ -1736,28 +2057,6 @@
       "archive_change": "previously_catalogued"
     },
     {
-      "date": "2024-11-22",
-      "title": "Use AI to combat AI – The Hindu AI Summit 2024",
-      "outlet": "The Hindu · AI Summit 2024",
-      "type": "Article / Event Coverage",
-      "format": "The Hindu article",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/use-ai-to-combat-ai/article68894481.ece",
-      "summary": "The Hindu's report on Sujatha's AI Summit 2024 fireside chat describes using AI to defend against AI-enabled threats. The newspaper scan remains available as a related source.",
-      "topics": [
-        "AI security",
-        "speaker",
-        "AI summit"
-      ],
-      "status": "verified from publisher article",
-      "archive_change": "updated_2026-09-25",
-      "syndications": [
-        {
-          "label": "Newspaper scan",
-          "url": "https://appxcontent.kaxa.in/notes/2024-11-22-0.5107383647935946.pdf"
-        }
-      ]
-    },
-    {
       "date": "2023-05-13",
       "title": "From Central Team to Enterprise-Wide Impact – Google Cloud Community Day 2023",
       "outlet": "GDG Cloud Chennai",
@@ -1829,8 +2128,8 @@
       "archive_change": "added_2026-09-25"
     }
   ],
-  "site_generated": "2026-09-25",
-  "site_note": "Personal portfolio dataset. Edit this file to update the website content.",
+  "site_generated": "2026-11-09",
+  "site_note": "Reviewed 9 November 2026. Two independently published items dated 3-4 November and one previously missing September 2025 analyst article added; related-source links and a homepage speaker-reference correction applied. Consult change report for verification boundaries.",
   "site": {
     "name": "Sujatha S Iyer",
     "role": "Head of AI Security",
@@ -1849,6 +2148,10 @@
       {
         "label": "LinkedIn",
         "url": "https://in.linkedin.com/in/sujathasiyer"
+      },
+      {
+        "label": "ManageEngine",
+        "url": "https://www.manageengine.com/responsible-ai.html"
       }
     ],
     "focus": [
@@ -1870,6 +2173,8 @@
       }
     ],
     "featured_titles": [
+      "NCSC: UK Critical Infrastructure at Risk from AI Malware",
+      "Startups Must Build AI Security Into Products From Day One",
       "ManageEngine: Philippine banks need continuous cyber visibility as AI speeds up attacks",
       "AI Security Hinges on Context-Aware Decisions",
       "AI is writing the code, engineers still need the math",
@@ -1878,10 +2183,10 @@
       "AI: The Attacker, The Defender, The New Cyber Battleground"
     ],
     "speaking_titles": [
-      "Entrepreneur 2025",
+      "Entrepreneur 2025 - speaker and AI-led transformation roundtable",
       "What it takes to run AI in the real world: Lessons from Akamai Digital Leadership Summit",
       "ET NOW Global Business Summit 2026 – speaker profile",
-      "AICTE AI Summit 2025 – chief guest address and full recording",
+      "AICTE AI Summit 2025 – ‘AI in India: Opportunities and Challenges’",
       "Speaker Spotlight – TNGSS 2025: From TN to Global",
       "Beyond Talk, Into Action: Mumbai’s World AI Show Drives Real AI Change"
     ],
