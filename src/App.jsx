@@ -25,6 +25,7 @@ const FILTERS = [
   ['Writing & Media', r => r.type !== 'Patent / IP' && !/Event|Speaker/.test(r.type || '')],
   ['Speaking', r => /Event|Speaker/.test(r.type || '')],
   ['Patents', r => r.type === 'Patent / IP'],
+  ['Added 9 Nov 2026', r => r.archive_change === 'added_2026-11-09'],
 ]
 
 const ARCHIVE_FILTERS = [
